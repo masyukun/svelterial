@@ -1,0 +1,33 @@
+{
+  "name": "svelterial",
+  "version": "1.0.0",
+  "description": "Material Design Components Web implementation in Svelte",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masyukun/svelterial.git"
+  },
+  "keywords": [
+    "svelte",
+    "material",
+    "mdc"
+  ],
+  "author": "Matthew Royal <masyukun@gmail.com>",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/masyukun/svelterial/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/masyukun/svelterial/issues"
+  },
+  "homepage": "https://github.com/masyukun/svelterial#readme",
+  "devDependencies": {
+    "chai": "latest",
+    "mocha": "latest"
+  }
+}
