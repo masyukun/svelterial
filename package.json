@@ -1,7 +1,8 @@
 {
   "name": "svelterial",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Material Design Components Web implementation in Svelte",
+  "svelte": "index.js",
   "main": "index.js",
   "scripts": {
     "test": "mocha test.js"
